@@ -8,7 +8,7 @@
 @font-face {
     font-family: 'DBAdmanX';
     src: url('subtest/DBAdmanX.eot');
-    src: local('☺'), url('subtest/DBAdmanX.woff') format('woff'), url('subtest/DBAdmanX.ttf') format('truetype'), url('subtest/DBAdmanX.svg') format('svg');
+    src: local('subtest'), url('subtest/DBAdmanX.woff') format('woff'), url('subtest/DBAdmanX.ttf') format('truetype'), url('subtest/DBAdmanX.svg') format('svg');
     font-weight: normal;
     font-style: normal;
 }
