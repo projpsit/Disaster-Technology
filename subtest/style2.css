@@ -602,8 +602,8 @@ jXLXOHcI6ZlFGl0ts3VeO8cGzKvNVijzDz+Xf8IA) format('woff'), url('DBAdmanX.ttf')  f
 }
 @font-face {
     font-family: 'DBAdmanX';
-    src: url('fonts/Circular.eot');
-    src: local('☺'), url('Subtest/DBAdmanX.woff') format('woff'), url('Subtest/DBAdmanX.ttf') format('truetype'), url('Subtest/DBAdmanX.svg') format('svg');
+    src: url('subtest/DBAdmanX.eot');
+    src: local('☺'), url('subtest/DBAdmanX.woff') format('woff'), url('subtest/DBAdmanX.ttf') format('truetype'), url('subtest/DBAdmanX.svg') format('svg');
     font-weight: normal;
     font-style: normal;
 }
