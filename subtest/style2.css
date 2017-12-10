@@ -601,6 +601,11 @@ jXLXOHcI6ZlFGl0ts3VeO8cGzKvNVijzDz+Xf8IA) format('woff'), url('DBAdmanX.ttf')  f
   font-style: normal;
 }
 
+body {
+    background: #cce100;
+    color: #445;
+    font-family: 'DBAdmanX';
+}
 
 
 
