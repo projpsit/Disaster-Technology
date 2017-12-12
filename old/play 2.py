@@ -5,3 +5,4 @@ line_chart = pygal.Line(title=u'ปริมาณก๊าสคาร์บอ
 line_chart.x_labels = map(str, range(1960, 2013))
 line_chart.add('CO2', df['gas'])
 line_chart.render_to_file('gas.svg')
+print("คาบอร์น")
