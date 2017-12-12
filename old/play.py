@@ -7,3 +7,4 @@ line_chart.add('จำนวนคนใช้คอมเล่นเกม (x1
 line_chart.add('ปริมาณอาชญากรรม', [4558, 4760, 4744, 4148, 3875, 3823.6])
 line_chart.render_to_file('play.svg')
 print("อาชญากรรม")
+print("ประชากร")
